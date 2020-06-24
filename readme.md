@@ -1,0 +1,1 @@
+﻿# baselinessd-pytorchhttps://github.com/amdegroot/ssd.pytorch/blob/master/train.py# datasettrain_set: PASCAL VOC 2007+2012test_set: PASCAL VOC 2007 test
